@@ -5,7 +5,7 @@ body{
 .table{
     font-family: Times New Roman;
 }
-a{
+#btn{
     border: 2px;
     border-radius: 5px;
     padding: 10px;
